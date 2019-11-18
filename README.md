@@ -1,8 +1,10 @@
-# Binding JSON Data and Service URLs to the Vue Grid of Syncfusion
+# Binding Remote Service URLs to the Vue Grid of Syncfusion
 
-A quick start project that helps you to bind the remote data to the Syncfusion Vue Grid and also to load data dynamically through the AJAX post. Please watch the below video to bind local JSON data to the Vue Grid.
+A quick start project that helps you to bind the remote data to the Syncfusion Vue Grid and also to load data dynamically through the AJAX post. Please watch the following video to learn how to bind local JSON data to the Vue Grid.
 
-Watch the getting-started video now: https://www.syncfusion.com/tutorial-videos/vue/grid?title=how-to-get-started-with-the-syncfusion-vue-grid
+Watch the getting-started video now to learn how to bind local JSON data: https://www.syncfusion.com/tutorial-videos/vue/grid?title=how-to-get-started-with-the-syncfusion-vue-grid
+
+Download example with local JSON data: https://github.com/SyncfusionExamples/getting-started-with-vue-data-grid-of-syncfusion
 
 Documentation: https://ej2.syncfusion.com/vue/documentation/grid/data-binding/
 
